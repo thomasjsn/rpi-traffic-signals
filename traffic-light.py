@@ -66,6 +66,6 @@ lightPowerUp()
 
 while True:
     turnGreen()
-    time.sleep(10)
-    turnRed()
     time.sleep(5)
+    turnRed()
+    time.sleep(15)
