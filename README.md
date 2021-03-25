@@ -2,6 +2,8 @@
 
 > Using stack lights as a kids bicycle traffic lights, powered by a Raspberry Pi Zero W. Running on 12V battery.
 
+Project documentation available at: https://blog.cavelab.dev/2021/03/rpi-traffic-lights/
+
 ![Traffic lights, with Raspberry Pi Zero](https://i.logistics.cavelab.net/large/2641.jpeg)
 
 ## Author
